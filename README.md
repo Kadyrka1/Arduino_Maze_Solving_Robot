@@ -1,6 +1,6 @@
 # RobotControl
 
-<img width="700" height="540" alt="2WD-Ultrasonic-Smart-Tracking-Moteur-Robot-Car-Kit-For-Arduino-front-960x540" src="https://github.com/user-attachments/assets/70aeab89-f4e4-45cd-a978-5d10de4d4f8c" />
+<img width="700" height="400" alt="2WD-Ultrasonic-Smart-Tracking-Moteur-Robot-Car-Kit-For-Arduino-front-960x540" src="https://github.com/user-attachments/assets/70aeab89-f4e4-45cd-a978-5d10de4d4f8c" />
 
 
 code.ino sketch implements a right-hand wall-following maze solver for a two-motor
